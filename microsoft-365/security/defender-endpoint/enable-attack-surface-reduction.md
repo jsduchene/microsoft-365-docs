@@ -272,6 +272,9 @@ Example:
 
 6. After the policy is created, select **Close**.
 
+    > [!NOTE]
+    > This method only applies to Windows 10 1709 or later; the minimum Windows Server build is version 1809 or later. For older version (Windows Server 2012 R2, Windows Server 2016, etc.), you must use another supported method.
+
 ### Group Policy
 
 > [!WARNING]
